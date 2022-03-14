@@ -1,0 +1,70 @@
+body {
+    font-family:'M PLUS 1', sans-serif;
+    min-height: 400px;
+    background-image: url('https://image.flaticon.com/icons/png/512/201/201635.png');
+    background: linear-gradient(#9370DB, #000000);
+    background-size: 290vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 5px;
+    height: 100vh;
+  }
+
+  .container-conversor {
+    text-align: center;
+  }
+  
+  .page-title {
+    color:#ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+    border-radius: 10px
+  }
+  
+  input {
+    margin-top: 12px;
+    padding: 6px;
+    border-radius: 15px;
+  }
+  
+  label {
+    color: white;
+    font-weight: bold;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  .frase {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .redesocial {
+    margin: 0 55px 0 5px;
+    top: 60px;
+    text-align: center;
+    padding: 45px;  
+  }
+  
+  .perfil-logo {
+    width: 40px;
+   
+  }
